@@ -11,31 +11,31 @@ let index = 0;
 const songList = [
     {
         songName: "Tum Hi Ho",
-        songUrl: "Assets/Tum Hi Ho.mp3",
+        songUrl: "Assets/TumHiHo.mp3",
         artist: "Arijit Singh",
         poster: "https://pagalfree.com/images/128Tum%20Hi%20Ho%20-%20Aashiqui%202%20128%20Kbps.jpg"
     },
     {
         songName: "Gym De Shokeen",
-        songUrl: "Assets/Gym De Shokeen.mp3",
+        songUrl: "Assets/GymDeShokeen.mp3",
         artist: "Sukhwinder Singh, Sapna Awasthi",
         poster: "https://pagalfree.com/images/128Gym%20De%20Shokeen%20-%20Bhallwaan%20128%20Kbps.jpg"
     },
     {
         songName: "Arjan Vailly",
-        songUrl: "Assets/Arjan Vailly.mp3",
+        songUrl: "Assets/ArjanVailly.mp3",
         artist: "Manan Bhardwaj, Bhupinder Babbal",
         poster: "https://pagalfree.com/images/128Arjan%20Vailly%20-%20Animal%20128%20Kbps.jpg"
     },
     {
         songName: "Tujh Mein Rab Dikhta Hai",
-        songUrl: "Assets/Tujh Mein Rab Dikhta Hai.mp3",
+        songUrl: "Assets/TujhMeinRabDikhtaHai.mp3",
         artist: "Roop Kumar Rathod",
         poster: "https://pagalfree.com/images/128Tujh%20Mein%20Rab%20Dikhta%20Hai%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20128%20Kbps.jpg"
     },
     {
         songName: "Dil Dhadakne Do",
-        songUrl: "Assets/Dil Dhadakne Do.mp3",
+        songUrl: "Assets/DilDhadakneDo.mp3",
         artist: "Priyanka Chopra, Farhan Akhtar",
         poster: "https://pagalfree.com/images/128Dil%20Dhadakne%20Do%20-%20Dil%20Dhadakne%20Do%20128%20Kbps.jpg"
     }
